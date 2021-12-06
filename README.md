@@ -1,4 +1,4 @@
-### Hi there 👋
+### 이창현입니다. 👋
 
 <!--
 **lch2325/lch2325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
